@@ -1,0 +1,44 @@
+hefei_peripheral/HF_TFT180.o: \
+ F:/BaiduSyncdisk/任重智能科技SMT焊接相关/安徽省基础组2023/厂家资料包/基础组摄像头资料/4.Demo/Libraries/hefei_peripheral/HF_TFT180.c \
+ F:/BaiduSyncdisk/任重智能科技SMT焊接相关/安徽省基础组2023/厂家资料包/基础组摄像头资料/4.Demo/Libraries/hefei_peripheral/HF_TFT180.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_common_font.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/common.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\Core/core_riscv.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/system_ch32v30x.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/delay.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_spi.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_spi.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_rcc.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_gpio.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_gpio.h \
+ F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_exti.h
+
+F:/BaiduSyncdisk/任重智能科技SMT焊接相关/安徽省基础组2023/厂家资料包/基础组摄像头资料/4.Demo/Libraries/hefei_peripheral/HF_TFT180.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_common_font.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/common.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\Core/core_riscv.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/system_ch32v30x.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/delay.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_spi.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_spi.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_rcc.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_gpio.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\hefei_libraries/hf_gpio.h:
+
+F:\BaiduSyncdisk\任重智能科技SMT焊接相关\安徽省基础组2023\厂家资料包\基础组摄像头资料\4.Demo\Libraries\Device\CH32V30x_p\CH32V30x_Lib/ch32v30x_exti.h:

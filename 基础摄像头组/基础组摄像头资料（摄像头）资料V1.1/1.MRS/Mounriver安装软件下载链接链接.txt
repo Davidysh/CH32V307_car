@@ -1,0 +1,5 @@
+
+1. Mounriver安装软件下载链接链接：
+http://mounriver.com/
+
+点击界面上方的下载，在集成开发环境下找到MounRiver_Studio_Setup_V151.exe，点击即可下载。

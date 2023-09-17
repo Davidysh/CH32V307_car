@@ -1,0 +1,366 @@
+[
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_adc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_adc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_adc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_bkp.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_bkp.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_bkp.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_can.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_can.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_can.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_crc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_crc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_crc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dac.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dac.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dac.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dbgmcu.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dbgmcu.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dbgmcu.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dma.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dma.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dma.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dvp.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dvp.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_dvp.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_eth.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_eth.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_eth.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_exti.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_exti.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_exti.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_flash.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_flash.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_flash.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_fsmc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_fsmc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_fsmc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_gpio.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_gpio.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_gpio.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_i2c.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_i2c.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_i2c.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_iwdg.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_iwdg.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_iwdg.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_misc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_misc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_misc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_opa.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_opa.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_opa.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_pwr.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_pwr.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_pwr.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rcc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rcc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rcc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rng.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rng.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rng.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rtc.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rtc.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_rtc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_sdio.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_sdio.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_sdio.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_spi.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_spi.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_spi.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_tim.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_tim.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_tim.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usart.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usart.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usart.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usbotg_device.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usbotg_device.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_usbotg_device.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_wwdg.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_wwdg.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\ch32v30x_wwdg.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\system_ch32v30x.c.obj", "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\system_ch32v30x.c"],
+  "file": "Libraries\\Device\\CH32V30x_p\\CH32V30x_Lib\\system_ch32v30x.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\Device\\Core\\core_riscv.c.obj", "Libraries\\Device\\Core\\core_riscv.c"],
+  "file": "Libraries\\Device\\Core\\core_riscv.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\board\\board.c.obj", "Libraries\\hefei_libraries\\board\\board.c"],
+  "file": "Libraries\\hefei_libraries\\board\\board.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\common.c.obj", "Libraries\\hefei_libraries\\common.c"],
+  "file": "Libraries\\hefei_libraries\\common.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\delay.c.obj", "Libraries\\hefei_libraries\\delay.c"],
+  "file": "Libraries\\hefei_libraries\\delay.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_adc.c.obj", "Libraries\\hefei_libraries\\hf_adc.c"],
+  "file": "Libraries\\hefei_libraries\\hf_adc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_common_font.c.obj", "Libraries\\hefei_libraries\\hf_common_font.c"],
+  "file": "Libraries\\hefei_libraries\\hf_common_font.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_dma.c.obj", "Libraries\\hefei_libraries\\hf_dma.c"],
+  "file": "Libraries\\hefei_libraries\\hf_dma.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_dvp.c.obj", "Libraries\\hefei_libraries\\hf_dvp.c"],
+  "file": "Libraries\\hefei_libraries\\hf_dvp.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_encoder.c.obj", "Libraries\\hefei_libraries\\hf_encoder.c"],
+  "file": "Libraries\\hefei_libraries\\hf_encoder.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_exti.c.obj", "Libraries\\hefei_libraries\\hf_exti.c"],
+  "file": "Libraries\\hefei_libraries\\hf_exti.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_flash.c.obj", "Libraries\\hefei_libraries\\hf_flash.c"],
+  "file": "Libraries\\hefei_libraries\\hf_flash.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_gpio.c.obj", "Libraries\\hefei_libraries\\hf_gpio.c"],
+  "file": "Libraries\\hefei_libraries\\hf_gpio.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_i2c_hardware.c.obj", "Libraries\\hefei_libraries\\hf_i2c_hardware.c"],
+  "file": "Libraries\\hefei_libraries\\hf_i2c_hardware.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_i2c_software.c.obj", "Libraries\\hefei_libraries\\hf_i2c_software.c"],
+  "file": "Libraries\\hefei_libraries\\hf_i2c_software.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_nvic.c.obj", "Libraries\\hefei_libraries\\hf_nvic.c"],
+  "file": "Libraries\\hefei_libraries\\hf_nvic.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_pit.c.obj", "Libraries\\hefei_libraries\\hf_pit.c"],
+  "file": "Libraries\\hefei_libraries\\hf_pit.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_pwm.c.obj", "Libraries\\hefei_libraries\\hf_pwm.c"],
+  "file": "Libraries\\hefei_libraries\\hf_pwm.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_spi.c.obj", "Libraries\\hefei_libraries\\hf_spi.c"],
+  "file": "Libraries\\hefei_libraries\\hf_spi.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_tim.c.obj", "Libraries\\hefei_libraries\\hf_tim.c"],
+  "file": "Libraries\\hefei_libraries\\hf_tim.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_libraries\\hf_uart.c.obj", "Libraries\\hefei_libraries\\hf_uart.c"],
+  "file": "Libraries\\hefei_libraries\\hf_uart.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_Double_DC_Motor.c.obj", "Libraries\\hefei_peripheral\\HF_Double_DC_Motor.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_Double_DC_Motor.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_HC_SR04.c.obj", "Libraries\\hefei_peripheral\\HF_HC_SR04.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_HC_SR04.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_IPS114.c.obj", "Libraries\\hefei_peripheral\\HF_IPS114.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_IPS114.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_MT9V03X.c.obj", "Libraries\\hefei_peripheral\\HF_MT9V03X.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_MT9V03X.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_TFT180.c.obj", "Libraries\\hefei_peripheral\\HF_TFT180.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_TFT180.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_Wireless_uart.c.obj", "Libraries\\hefei_peripheral\\HF_Wireless_uart.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_Wireless_uart.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\Libraries\\hefei_peripheral\\HF_WS2812b.c.obj", "Libraries\\hefei_peripheral\\HF_WS2812b.c"],
+  "file": "Libraries\\hefei_peripheral\\HF_WS2812b.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\board_led.c.obj", "src\\CODE\\board_led.c"],
+  "file": "src\\CODE\\board_led.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_adc.c.obj", "src\\CODE\\car_adc.c"],
+  "file": "src\\CODE\\car_adc.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_init.c.obj", "src\\CODE\\car_init.c"],
+  "file": "src\\CODE\\car_init.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_keys.c.obj", "src\\CODE\\car_keys.c"],
+  "file": "src\\CODE\\car_keys.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_ligth.c.obj", "src\\CODE\\car_ligth.c"],
+  "file": "src\\CODE\\car_ligth.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_motion.c.obj", "src\\CODE\\car_motion.c"],
+  "file": "src\\CODE\\car_motion.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_reed.c.obj", "src\\CODE\\car_reed.c"],
+  "file": "src\\CODE\\car_reed.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_uart.c.obj", "src\\CODE\\car_uart.c"],
+  "file": "src\\CODE\\car_uart.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\CODE\\car_value_process.c.obj", "src\\CODE\\car_value_process.c"],
+  "file": "src\\CODE\\car_value_process.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\dis_camera.c.obj", "src\\USER\\src\\dis_camera.c"],
+  "file": "src\\USER\\src\\dis_camera.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\image_processing.c.obj", "src\\USER\\src\\image_processing.c"],
+  "file": "src\\USER\\src\\image_processing.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\init.c.obj", "src\\USER\\src\\init.c"],
+  "file": "src\\USER\\src\\init.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\isr.c.obj", "src\\USER\\src\\isr.c"],
+  "file": "src\\USER\\src\\isr.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\key_fn.c.obj", "src\\USER\\src\\key_fn.c"],
+  "file": "src\\USER\\src\\key_fn.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\main.c.obj", "src\\USER\\src\\main.c"],
+  "file": "src\\USER\\src\\main.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\message.c.obj", "src\\USER\\src\\message.c"],
+  "file": "src\\USER\\src\\message.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\move.c.obj", "src\\USER\\src\\move.c"],
+  "file": "src\\USER\\src\\move.c"
+},
+{
+  "directory": "C:\\Users\\liu\\Desktop\\智能小车比赛\\car_23",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/ILibraries\\hefei_libraries", "/Isrc\\USER\\inc", "/Isrc\\CODE", "/ILibraries\\Device\\Core", "/ILibraries\\hefei_libraries\\board", "/ILibraries\\hefei_peripheral", "/ILibraries\\Device\\CH32V30x_p\\CH32V30x_Lib", "/EHsc", "/Fobuild\\.objs\\car_23\\windows\\x64\\release\\src\\USER\\src\\time.c.obj", "src\\USER\\src\\time.c"],
+  "file": "src\\USER\\src\\time.c"
+}]
